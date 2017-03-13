@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ble_Air_Control</string>
+
+    <!-- 蓝牙模块 -->
+    <string name="not_support_ble">手机不支持蓝牙</string>
+    <string name="not_support_bluetooth">手机不支持BLE设备</string>
+</resources>
