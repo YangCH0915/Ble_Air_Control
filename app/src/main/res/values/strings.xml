@@ -4,4 +4,8 @@
     <!-- 蓝牙模块 -->
     <string name="not_support_ble">手机不支持蓝牙</string>
     <string name="not_support_bluetooth">手机不支持BLE设备</string>
+    <string name="unknown_device">未知设备</string>
+    <string name="no_data">附近没有可用设备</string>
+    <string name="search_device_failed">未搜索到设备</string>
+    <string name="choose_device">请选择设备</string>
 </resources>
